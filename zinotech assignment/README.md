@@ -1,0 +1,1 @@
+Here i have created 4 stack of cards which has red,blue,green and black.The cards which are present inside the stack can be draggable.Depending on the droppable stack the color of card will change.I have done the add functionality.The user cannot able to add more than 8 cards in the stack 
